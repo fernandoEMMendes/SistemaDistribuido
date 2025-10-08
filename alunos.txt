@@ -1,1 +1,9 @@
-ola galera
+git config user.name "teste"
+git config user.email "teste"
+
+git status
+faz a mudança
+git add index.php
+git commit -m "teste"
+git status
+git log
